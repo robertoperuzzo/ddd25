@@ -1,2 +1,2 @@
-# ddd25
-Typesense Launcher for Drupal
+# DDD25 - AI-Powered Semantic Search in Drupal with Typesense
+Typesense Launcher for Drupal.
